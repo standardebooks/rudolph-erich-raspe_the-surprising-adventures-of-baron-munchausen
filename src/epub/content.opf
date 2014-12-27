@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2014-12-27T05:57:34Z</meta>
+		<meta property="dcterms:modified">2015-02-12T00:14:49Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -12,27 +12,42 @@
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Surprising Adventures of Baron Munchausen</dc:title>
 		<meta property="file-as" refines="#title">Surprising Adventures of Baron Munchausen, The</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description>DESCRIPTION</dc:description>
+		<dc:subject id="subject-1">Fantasy</dc:subject>
+		<dc:subject id="subject-2">Humorous stories</dc:subject>
+		<dc:subject id="subject-3">German wit and humor</dc:subject>
+		<dc:subject id="subject-4">Interplanetary voyages -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Voyages, Imaginary -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Humor</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">The legendary Baron Munchausen's tall tales of wonder and adventure.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Baron Hieronymus Karl Friedrich, Freiherr von Münchhausen, was an actual baron living in 18th-century Hanover famous for entertaining his guests with outrageously-embellished tales of his wartime exploits&amp;mdash;so much so that his nickname in German is &lt;i lang="de"&gt;Lügenbaron&lt;/i&gt;, or &amp;ldquo;Baron of Lies&amp;rdquo;.  When Rudolph Eric Raspe, a writer and scientist living in England, heard of the Baron&amp;rsquo;s tales, he wrote his own versions centered around a fictional Baron Munchausen.&lt;/p&gt;
+			&lt;p&gt;While the real Baron wasn&amp;rsquo;t amused to have his name attached to a silly character famous for his bald-faced lies, Raspe&amp;rsquo;s tales became hugely popular, reprinted for hundreds of years and illustrated just as many times.  These very short tales were originally intended as contemporary satire, but their outrageous silliness is still entertaining today.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/3154</dc:source>
+		<dc:source>https://archive.org/stream/travelssurprisin00forrrich</dc:source>
+		<meta property="se:word-count">52610</meta>
 		<dc:creator id="author">Rudolph Erich Raspe</dc:creator>
 		<meta property="file-as" refines="#author">Raspe, Rudolph Erich</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudolf_Erich_Raspe</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Gottfried Franz</dc:contributor>
+		<meta property="file-as" refines="#artist">Franz, Gottfried</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Emma Dudding</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dudding, Emma</meta>
@@ -50,6 +65,7 @@
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
@@ -61,20 +77,22 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/volume-1.xhtml" id="volume-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/volume-2.xhtml" id="volume-2.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="volume-1.xhtml"/>
+		<itemref idref="volume-2.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="unlicense.xhtml"/>
 	</spine>

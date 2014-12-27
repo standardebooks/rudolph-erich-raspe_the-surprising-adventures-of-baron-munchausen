@@ -1,8 +1,107 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html){
-	background: #C0C0C0;
+section > footer{
+	font-variant: italic;
+}
+
+.proclamation{
+	margin: 1em;
+}
+
+.proclamation > header{
+	margin: 1em;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+.proclamation > footer{
+	text-align: right;
+	font-style: italic;
+	margin-top: 1em;
+}
+
+.proclamation + p,
+h4 + p{
+	text-indent: 0;
+}
+
+.motto{
+	font-variant: small-caps;
+}
+
+section[epub|type~="chapter"],
+section[epub|type~="preface"],
+section[epub|type~="volume"] > h2{
+	page-break-after: always;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+.signature{
+	text-align: right;
+}
+
+.notary{
+	font-style: italic;
+	max-width: 50%;
+}
+
+.notary p{
+	text-indent: 0;
+}
+
+.notary p strong{
+	font-style: normal;
+}
+
+.small-caps{
+	font-style: all-small-caps;
+}
+
+*[epub|type~="z3998:poem"]{
+	margin: 1em;
+}
+
+*[epub|type~="z3998:poem"] + p,
+*[epub|type~="z3998:verse"] + p{
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:poem"] p,
+*[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+*[epub|type~="z3998:poem"] p span,
+*[epub|type~="z3998:verse"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:poem"] br,
+*[epub|type~="z3998:verse"] br{
+	display: none;
+}
+
+p[epub|type~="bridgehead"]{
+	font-style: italic;
+	hyphens: none;
+	margin: 2em 0;
+	text-align: center;
+	text-indent: 0;
+}
+
+p[epub|type~="bridgehead"] i{
+	font-style: normal;
 }

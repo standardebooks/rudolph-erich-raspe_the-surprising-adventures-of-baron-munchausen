@@ -45,7 +45,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rudolph-erich-raspe_the-surprising-adventures-of-baron-munchausen</meta>
 		<dc:creator id="author">Rudolph Erich Raspe</dc:creator>
 		<meta property="file-as" refines="#author">Raspe, Rudolph Erich</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudolf_Erich_Raspe</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudolf_Erich_Raspe</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Gottfried Franz</dc:contributor>
 		<meta property="file-as" refines="#artist">Franz, Gottfried</meta>

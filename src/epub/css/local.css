@@ -105,3 +105,8 @@ p[epub|type~="bridgehead"]{
 p[epub|type~="bridgehead"] i{
 	font-style: normal;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
+

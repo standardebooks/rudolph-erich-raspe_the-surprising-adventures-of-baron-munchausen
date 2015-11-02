@@ -54,10 +54,6 @@ span[epub|type~="subtitle"]{
 	font-style: normal;
 }
 
-.small-caps{
-	font-style: all-small-caps;
-}
-
 *[epub|type~="z3998:poem"]{
 	margin: 1em;
 }

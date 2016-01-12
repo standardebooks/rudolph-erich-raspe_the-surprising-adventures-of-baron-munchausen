@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rudolph-erich-raspe/the-surprising-adventures-of-baron-munchausen</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-12-23T06:33:40Z</meta>
+		<meta property="dcterms:modified">2016-01-12T00:39:44Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,7 +31,7 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Humor</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">The legendary Baron Munchausen's tall tales of wonder and adventure.</dc:description>
+		<dc:description id="description">The legendary Baron Munchausen’s tall tales of wonder and adventure.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Baron Hieronymus Karl Friedrich, Freiherr von Münchhausen, was an actual baron living in 18th-century Hanover famous for entertaining his guests with outrageously-embellished tales of his wartime exploits&amp;mdash;so much so that his nickname in German is &lt;i lang="de"&gt;Lügenbaron&lt;/i&gt;, or &amp;ldquo;Baron of Lies&amp;rdquo;.  When Rudolph Eric Raspe, a writer and scientist living in England, heard of the Baron&amp;rsquo;s tales, he wrote his own versions centered around a fictional Baron Munchausen.&lt;/p&gt;

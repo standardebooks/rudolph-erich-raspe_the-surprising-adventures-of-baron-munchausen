@@ -47,16 +47,16 @@
 		<dc:creator id="author">Rudolph Erich Raspe</dc:creator>
 		<meta property="file-as" refines="#author">Raspe, Rudolph Erich</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudolf_Erich_Raspe</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83041816.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83041816</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="contributor">Thomas Seccombe</dc:contributor>
 		<meta property="file-as" refines="#contributor">Seccombe, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Thomas_Seccombe</meta>
-		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n50004934.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n50004934</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Gottfried Franz</dc:contributor>
 		<meta property="file-as" refines="#artist">Franz, Gottfried</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2008125741.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2008125741</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Emma Dudding</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dudding, Emma</meta>

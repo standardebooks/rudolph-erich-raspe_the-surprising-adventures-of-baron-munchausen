@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 790">
 	<title>The titlepage for the Standard Ebooks edition of The Surprising Adventures of Baron Munchausen, by Rudolph Erich Raspe</title>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE SURPRISING</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">ADVENTURES OF</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="330">BARON MUNCHAUSEN</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="490">RUDOLPH ERICH RASPE</text>
-	<text style="fill:#000;font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="680">introduction by</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="740">THOMAS SECCOMBE</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE SURPRISING</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">ADVENTURES OF</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="330">BARON MUNCHAUSEN</text>
+	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="490">RUDOLPH ERICH RASPE</text>
+	<text style="font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="680">introduction by</text>
+	<text style="font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="740">THOMAS SECCOMBE</text>
 </svg>

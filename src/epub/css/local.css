@@ -22,12 +22,6 @@ section > footer{
 	font-variant: small-caps;
 }
 
-section[epub|type~="chapter"],
-section[epub|type~="preface"],
-section[epub|type~="volume"] > h2{
-	page-break-after: always;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;

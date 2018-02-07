@@ -1,21 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-section > footer{
-	font-variant: italic;
+aside,
+footer{
+	font-style: italic;
+	margin-top: 1em;
+}
+
+aside + p{
+	margin-top: 1em;
+	text-indent: 0;
 }
 
 .proclamation > header{
 	margin: 1em;
-	font-weight: bold;
 	font-variant: small-caps;
 	text-align: center;
 }
 
 .proclamation > footer{
 	text-align: right;
-	font-style: italic;
-	margin-top: 1em;
 }
 
 .motto{

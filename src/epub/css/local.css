@@ -15,7 +15,6 @@ aside + p{
 .proclamation > header{
 	margin: 1em;
 	font-variant: small-caps;
-	text-align: center;
 }
 
 .proclamation > footer{
@@ -79,14 +78,9 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
-section > header{
-	text-align: center;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
-	margin: 0 auto 3em auto;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
@@ -94,8 +88,4 @@ section > header{
 
 [epub|type~="bridgehead"] i{
 	font-style: normal;
-}
-
-abbr.name{
-	white-space: nowrap;
 }

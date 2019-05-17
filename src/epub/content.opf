@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Surprising Adventures of Baron Munchausen</dc:title>
 		<meta property="file-as" refines="#title">Surprising Adventures of Baron Munchausen, The</meta>
 		<dc:subject id="subject-1">Fantasy</dc:subject>
@@ -34,21 +34,24 @@
 		<dc:subject id="subject-3">German wit and humor</dc:subject>
 		<dc:subject id="subject-4">Interplanetary voyages -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Voyages, Imaginary -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3154</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3154</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3154</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/3154</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047157</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85062975</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85054430</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008104870</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">The legendary Baron Munchausen’s tall tales of wonder and adventure.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Baron Hieronymus Karl Friedrich, Freiherr von Münchhausen, was an actual baron living in 18th-century Hanover famous for entertaining his guests with outrageously-embellished tales of his wartime exploits—so much so that his nickname in German is &lt;i&gt;Lügenbaron&lt;/i&gt;, or “Baron of Lies.” When Rudolph Eric Raspe, a writer and scientist living in England, heard of the Baron’s tales, he wrote his own versions centered around a fictional Baron Munchausen.&lt;/p&gt;
 			&lt;p&gt;While the real Baron wasn’t amused to have his name attached to a silly character famous for his bald-faced lies, Raspe’s tales became hugely popular, reprinted for hundreds of years and illustrated just as many times. These very short tales were originally intended as contemporary satire, but their outrageous silliness is still entertaining today.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3154</dc:source>
 		<dc:source>https://archive.org/details/munchausen00unknuoft</dc:source>

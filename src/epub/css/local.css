@@ -12,12 +12,12 @@ aside + p{
 	text-indent: 0;
 }
 
-.proclamation > header{
+#chapter-27 blockquote:first-of-type > header{
 	margin: 1em;
 	font-variant: small-caps;
 }
 
-.proclamation > footer{
+#chapter-27 blockquote:first-of-type > footer{
 	text-align: right;
 }
 
@@ -34,16 +34,16 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-.notary{
+#at-the-city-of-london-england div:last-of-type{
 	font-style: italic;
 	max-width: 50%;
 }
 
-.notary p{
+#at-the-city-of-london-england div:last-of-type p{
 	text-indent: 0;
 }
 
-.notary p strong{
+#at-the-city-of-london-england div:last-of-type p strong{
 	font-style: normal;
 }
 

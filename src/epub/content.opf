@@ -55,7 +55,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3154</dc:source>
 		<dc:source>https://archive.org/details/munchausen00unknuoft</dc:source>
-		<meta property="se:word-count">52643</meta>
+		<meta property="se:word-count">52644</meta>
 		<meta property="se:reading-ease.flesch">46.03</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rudolph-erich-raspe_the-surprising-adventures-of-baron-munchausen</meta>
 		<dc:creator id="author">Rudolph Erich Raspe</dc:creator>

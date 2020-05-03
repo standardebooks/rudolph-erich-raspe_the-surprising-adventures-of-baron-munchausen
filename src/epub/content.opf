@@ -44,8 +44,8 @@
 		<meta property="term" refines="#subject-4">sh2008104870</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">The legendary Baron Munchausen’s tall tales of wonder and adventure.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">

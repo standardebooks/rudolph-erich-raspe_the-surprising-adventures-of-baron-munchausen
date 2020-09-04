@@ -25,11 +25,6 @@ aside + p{
 	font-variant: small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 .signature{
 	text-align: right;
 }

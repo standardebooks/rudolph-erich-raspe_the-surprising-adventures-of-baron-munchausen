@@ -25,7 +25,7 @@ aside + p{
 	font-variant: small-caps;
 }
 
-.signature{
+[epub:type~="z3998:signature"]{
 	text-align: right;
 }
 

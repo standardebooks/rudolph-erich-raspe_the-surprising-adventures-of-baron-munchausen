@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footers are styled like in print.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footers are styled like in print.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-14.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footers are styled like in print.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

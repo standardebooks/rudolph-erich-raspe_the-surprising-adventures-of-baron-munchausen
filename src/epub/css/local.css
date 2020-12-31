@@ -26,19 +26,29 @@ aside + p{
 }
 
 [epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+#at-the-city-of-london-england footer{
+	font-style: normal;
+	margin-top: 1em;
 	text-align: right;
 }
 
-#at-the-city-of-london-england div:last-of-type{
+#at-the-city-of-london-england p:nth-child(4){
+	margin-top: 1em;
+}
+
+#at-the-city-of-london-england p:nth-child(5){
+	font-variant: normal;
+}
+
+#at-the-city-of-london-england p:nth-child(4),
+#at-the-city-of-london-england p:nth-child(5){
 	font-style: italic;
-	max-width: 50%;
 }
 
-#at-the-city-of-london-england div:last-of-type p{
-	text-indent: 0;
-}
-
-#at-the-city-of-london-england div:last-of-type p strong{
+#at-the-city-of-london-england [epub|type~="z3998:signature"] b{
 	font-style: normal;
 }
 

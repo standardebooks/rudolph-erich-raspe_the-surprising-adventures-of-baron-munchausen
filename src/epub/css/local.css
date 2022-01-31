@@ -13,8 +13,8 @@ aside + p{
 }
 
 #chapter-27 blockquote:first-of-type > header{
-	margin: 1em;
 	font-variant: small-caps;
+	margin: 1em;
 }
 
 #chapter-27 blockquote:first-of-type > footer{

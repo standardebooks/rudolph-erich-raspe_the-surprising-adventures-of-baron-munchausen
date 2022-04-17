@@ -89,3 +89,15 @@ aside + p{
 [epub|type~="bridgehead"] i{
 	font-style: normal;
 }
+
+figure{
+	break-inside: avoid;
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}

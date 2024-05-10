@@ -57,7 +57,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3154</dc:source>
 		<dc:source>https://archive.org/details/munchausen00unknuoft</dc:source>
 		<meta property="se:word-count">52646</meta>
-		<meta property="se:reading-ease.flesch">46.03</meta>
+		<meta property="se:reading-ease.flesch">46.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Baron_Munchausen%27s_Narrative_of_his_Marvellous_Travels_and_Campaigns_in_Russia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rudolph-erich-raspe_the-surprising-adventures-of-baron-munchausen</meta>
 		<dc:creator id="author">Rudolph Erich Raspe</dc:creator>

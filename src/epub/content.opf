@@ -70,7 +70,7 @@
 		<meta property="file-as" refines="#contributor">Seccombe, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Thomas_Seccombe</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n50004934</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Gottfried Franz</dc:contributor>
 		<meta property="file-as" refines="#artist">Franz, Gottfried</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2008125741</meta>

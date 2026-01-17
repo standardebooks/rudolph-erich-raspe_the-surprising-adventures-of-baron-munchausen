@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 540">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 640">
 	<title>The titlepage for the Standard Ebooks edition of The Surprising Adventures of Baron Munchausen, by Rudolph Erich Raspe</title>
 	<style type="text/css">
 		text{
@@ -17,7 +17,8 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">THE SURPRISING</text>
-	<text class="title" x="700" y="230">ADVENTURES OF</text>
-	<text class="title" x="700" y="330">BARON MUNCHAUSEN</text>
-	<text class="author" x="700" y="490">RUDOLPH ERICH RASPE</text>
+	<text class="title" x="700" y="230">ADVENTURES</text>
+	<text class="title" x="700" y="330">OF BARON</text>
+	<text class="title" x="700" y="430">MUNCHAUSEN</text>
+	<text class="author" x="700" y="590">RUDOLPH ERICH RASPE</text>
 </svg>

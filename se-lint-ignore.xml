@@ -2,16 +2,19 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="c-010">
+			<line>18</line>
 			<reason>Footers are styled like in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-11.xhtml">
 		<ignore code="c-010">
+			<line>18</line>
 			<reason>Footers are styled like in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-14.xhtml">
 		<ignore code="c-010">
+			<line>21</line>
 			<reason>Footers are styled like in print.</reason>
 		</ignore>
 	</file>
